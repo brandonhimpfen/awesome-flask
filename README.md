@@ -1,4 +1,4 @@
-# Awesome Flask [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Flask [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![DOI](https://zenodo.org/badge/1115455162.svg)](https://doi.org/10.5281/zenodo.19673347)  
 [![GitHub Sponsor](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/brandonhimpfen) &nbsp; 
@@ -135,10 +135,10 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 
 ## Related Awesome Lists
 
-- [Awesome Python](https://github.com/awesomelistsio/awesome-python)
-- [Awesome Django](https://github.com/awesomelistsio/awesome-django)
-- [Awesome APIs](https://github.com/awesomelistsio/awesome-apis)
-- [Awesome Web Development](https://github.com/awesomelistsio/awesome-web-development)
+- [Awesome Python](https://github.com/brandonhimpfen/awesome-python)
+- [Awesome Django](https://github.com/brandonhimpfen/awesome-django)
+- [Awesome APIs](https://github.com/brandonhimpfen/awesome-apis)
+- [Awesome Web Development](https://github.com/brandonhimpfen/awesome-web-development)
 
 ## Contribute
 
